@@ -4,6 +4,7 @@ English to Hindi Translator
 # English to Hindi Translator with Exclusions
 
 I developed this app using Python's Tkinter and the `googletrans` Google Translate API. Its aim is to translate English text into Hindi. Just input the English text, and the app will produce the Hindi translation for you. Also, you can choose to remove particular words or phrases from the translation.
+
 ## Prerequisites
 
 Before running this application, make sure you have the following prerequisites installed:
