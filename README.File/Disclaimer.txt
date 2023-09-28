@@ -1,4 +1,0 @@
-Disclaimer:
-
-
--This application relies on a free online translation service, and its usage might be subject to rate limiting or service availability. Ensure you use it responsibly and respect the terms of service of the translation API provider.
