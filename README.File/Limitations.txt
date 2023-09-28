@@ -1,0 +1,6 @@
+Limitations:
+
+
+-The translation quality relies on the Google Translate API, which may not always provide perfect translations, especially for complex or context-dependent sentences.
+-The application splits sentences based on periods (".") and doesn't consider other punctuation marks or context.
+-Translation might not always be accurate, especially for specialized terms or idiomatic expressions.
